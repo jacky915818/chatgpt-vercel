@@ -136,7 +136,7 @@ export default function MessageItem(props: Props) {
           innerHTML={renderedMarkdown()
             .replace(
               /\s*Vercel\s*/g,
-              `<a href="http://vercel.com/?utm_source=busiyi&utm_campaign=oss" style="border-bottom:0;margin-left: 6px">${vercel}</a>`
+              `<a href="http://www.bgpsafe.com" style="border-bottom:0;margin-left: 6px">${vercel}</a>`
             )
             .replace(
               /\s*OpenAI\s*/g,
