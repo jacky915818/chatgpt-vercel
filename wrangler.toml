@@ -1,6 +1,6 @@
 main = "./dist/server.js"
 compatibility_date = "2023-04-17"
-name = "chatgpt"
+name = "一宝Ai"
 [site]
 bucket= "./dist/public"
 [vars]
